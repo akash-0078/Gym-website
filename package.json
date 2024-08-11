@@ -1,6 +1,7 @@
-"homepage": "https://akash-0078.github.io/Gym-website"
+
 
 {
+  "homepage": "https://akash-0078.github.io/Gym-website",
   "name": "gym-project",
   "private": true,
   "version": "0.0.0",
