@@ -5,4 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
    base: '/Gym-website/',
   plugins: [react()],
-})
+     build: {
+    outDir: 'dist',
+  },
+});
