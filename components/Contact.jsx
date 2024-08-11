@@ -55,8 +55,8 @@ const Contact = () => {
         <div className="flex flex-row items-center w-full md:w-2/4 my-5">
           <iframe
             title="Location"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108915.64214412407!2d74.19009261029682!3d31.452296963075824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391901246c16dbad%3A0x9fb71f55f2cb6a59!2sLevels%20gym!5e0!3m2!1sen!2s!4v1709278409350!5m2!1sen!2s"
-            width="500"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3432.5271415245774!2d74.87445021507644!3d32.72660188109681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e852f3a2e15fb%3A0xd2ed6f6a6262faae!2sJammu%2C%20Jammu%20and%20Kashmir%20180001!5e0!3m2!1sen!2sin!4v1709280000000!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+
             height="450"
             style={{ border: 0 }}
             allowFullScreen=""
